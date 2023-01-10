@@ -1,0 +1,11 @@
+/* Desktop */
+
+.container {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+.dashboard-img {
+  width: 100%;
+}
