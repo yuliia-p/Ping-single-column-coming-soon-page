@@ -1,11 +1,48 @@
-/* Desktop */
+@import "https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@300&family=Josefin+Sans:wght@300;400;600&family=Poppins:wght@100;400;500;600;700&display=swap";
+
+body {
+  font-size: 20px;
+  font-family: "Libre Franklin", sans-serif;
+  color: hsl(209deg, 33%, 12%);
+}
 
 .container {
-  width: 60%;
-  margin: auto;
+  width: 100%;
+  height: 100vh;
+  padding: 2rem 1rem 1rem;
   text-align: center;
 }
 
 .dashboard-img {
   width: 100%;
+}
+
+h1 {
+  font-weight: 100;
+  color: hsl(0deg, 0%, 59%);
+  font-size: 2rem;
+}
+
+span {
+  font-weight: 400;
+  color: hsl(209deg, 33%, 12%);
+}
+
+.logo {
+  width: 40%;
+  padding: 2rem;
+}
+
+/* Desktop */
+@media screen and (min-width: 756px) {
+  .container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+  }
+
+  /*
+  .dashboard-img {
+    width: 100%;
+  } */
 }
