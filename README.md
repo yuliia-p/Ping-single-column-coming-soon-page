@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-Live Site [URL](https://your-live-site-url.com)
+Live Site [URL](https://yuliia-p.github.io/Ping-single-column-coming-soon-page/)
 
 ## My process
 
