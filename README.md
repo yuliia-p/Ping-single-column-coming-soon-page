@@ -20,7 +20,6 @@ Users should be able to:
 <p align="middle">
 <img src="./images/desktop.png" width="1000">
 <img src="./images/mobile.png" width="300">
-<img src="./images/mobile-1.png" width="300">
 </p>
 
 ### Links
